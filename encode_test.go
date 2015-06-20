@@ -8,7 +8,7 @@ import (
 	"time"
 
 	. "gopkg.in/check.v1"
-	"gopkg.in/yaml.v2"
+	"github.com/dvln/yaml"
 	"net"
 	"os"
 )
