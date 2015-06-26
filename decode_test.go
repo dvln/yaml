@@ -2,7 +2,7 @@ package yaml_test
 
 import (
 	"errors"
-	. "gopkg.in/check.v1"
+	. "github.com/dvln/check"
 	"github.com/dvln/yaml"
 	"math"
 	"net"
